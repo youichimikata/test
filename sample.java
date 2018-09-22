@@ -7,6 +7,7 @@ public class Sample {
       , { "Z”", "90" }
       , { "Ğ‰ï", "70" }
       , { "—‰È", "75" }
+      , { "‘Ìˆç", "75" }
     };
 
     System.out.println("‹³‰È:" + testScore[1][0] + "A“_”:" + testScore[1][1]);
